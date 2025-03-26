@@ -1,4 +1,4 @@
-# 🛒 Projeto Mercadinho
+# 🛒 Mercadinho
 
 ###  Funcionalidades
 1. **Adicionar Item ao Carrinho**: O método `adicionarItem(Item item)` adiciona um produto ao carrinho e exibe uma mensagem de confirmação.
